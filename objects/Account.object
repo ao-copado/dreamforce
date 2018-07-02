@@ -68,6 +68,16 @@
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <fields>
+        <fullName>AQR_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>AQR Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Accenture_Field__c</fullName>
         <externalId>false</externalId>
         <label>Accenture Field</label>
@@ -484,6 +494,15 @@
     <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>KPN_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>KPN Field</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Email</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Key_Bank_Field__c</fullName>
